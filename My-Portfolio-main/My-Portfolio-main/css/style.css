@@ -354,6 +354,9 @@ h3.hello span
     font-size: 16px;
     line-height: 25px;
     color: var(--text-black-700);
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
 }
 .about .about-content .personal-info
 {
@@ -815,6 +818,7 @@ h3.hello span
 /* Contact */
 #contact{
     padding: 50px 70px;
+    background-color: #e9e9e9;
 }
 .contact-left{
     flex-basis: 35%;
